@@ -49,7 +49,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 3.  **Run the Streamlit app:**
     ```bash
-    streamlit run whatsapp_app.py
+    streamlit run app.py
     ```
     The application will open in a new tab in your default web browser.
 
